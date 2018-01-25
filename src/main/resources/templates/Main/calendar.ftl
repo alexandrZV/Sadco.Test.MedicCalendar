@@ -1,4 +1,4 @@
 <#import "../Shared/mainLayout.ftl" as layout>
 <@layout.MainLayout>
-<div></div>
+<div>    </div>
 </@layout.MainLayout>
